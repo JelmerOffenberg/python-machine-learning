@@ -63,6 +63,11 @@ In machine learning, the goal is to learn patterns from data that allows us to m
 - **prediction**: also known as inference, the process of creating predictions using a trained model
 - **evaluation**: how well is a model performing, this is evaluated via strict principles (more later)
 
+--- 
+# Model development cycle
+
+![alt text h:500](img/model-development-cycle.png)
+
 ---
 # Supervised Learning
 Supervised learning attempts to learn patterns from data by using example labeled data. For instance:
