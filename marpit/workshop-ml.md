@@ -442,4 +442,7 @@ This dataset is cleaned and available in _scikit-learn_, Python's ML library. We
 - **goal**: what mean absolute error can you get with your model? Let's make a little competition.
 - **constraint**: minimise usage of ChatGPT for solving the problem, only use it to explain bits of code or brainstorm.
 ---
-# Assignment: predict house prices in California
+# Assignment: predict if bank customers will take a term deposit
+- **goal**: familiarize yourself with model development on a larger dataset aimed at classification
+- **goal**: what is the best score you can get with your model? Let's make a little competition.
+- **goal**: can you find the optimal set of parameters for a model using a grid search or random search approach?
